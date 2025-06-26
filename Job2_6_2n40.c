@@ -2,7 +2,7 @@
 #include<stdio.h>
 void main()
 {
-    int i,count=5,num,sum=0;
+    int i,count=40,num,sum=0;
     float av=0;
     for (i = 1; i <= count; i++)
     {
